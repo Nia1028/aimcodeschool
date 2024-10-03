@@ -1,0 +1,9 @@
+nav
+ {background-color: blue;}
+a
+ {color:cyan;
+  font-size: 14px;
+  margin: 10px;
+ }
+p
+ {font-style: italic;}
