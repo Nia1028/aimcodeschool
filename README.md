@@ -1,2 +1,2 @@
-# aimcodeschool
-AIM Files
+# Code Challenges
+Learn html basics
